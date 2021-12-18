@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Willian Gabriel
-- 👀 I’m interested in be a programmer .whish me luck
+- 👀 I’m interested in be a developer .whish me luck
 - 🌱 I’m currently learning python
 - ...
 - ...
