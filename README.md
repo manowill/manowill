@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manowill
-- 👀 I’m interested in be a programmer whish me luck
+- 👀 I’m interested in be a programmer .whish me luck
 - 🌱 I’m currently learning python
 - ...
 - ...
