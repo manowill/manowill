@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Willian Gabriel
-- 👀 I’m interested in be a developer .whish me luck
-- 🌱 I’m currently learning python
+- 👀 I’m interested in work with devops. whish me luck
+- 🌱 I’m currently learning AWS and Docker
+-
 - ...
 
 <div align="left">
