@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Willian Gabriel
-- 👀 I’m interested in work with devops. whish me luck
-- 🌱 I’m currently learning AWS and Docker
+- 👀 Devops Intern 
+- 🌱 I’m currently learning AWS and devops tools.
 -
 - ...
 
