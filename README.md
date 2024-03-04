@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Willian Gabriel
-- 👀 Devops Intern 
+- 👀 Devops engineer
 - 🌱 I’m currently learning AWS and devops tools.
 -
 - ...
