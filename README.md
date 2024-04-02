@@ -32,4 +32,5 @@
   
 </div>
 
-<iframe src="https://giphy.com/embed/usXZmmgP9Z7kf39fnq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-engineering-doesnt-lie-usXZmmgP9Z7kf39fnq">via GIPHY</a></p>
+<br>
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></img>
